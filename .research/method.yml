@@ -1,0 +1,28 @@
+schema_version: '1.0'
+method:
+  id: statistical-computing
+  label: Statistical Computing and Visualization
+  repository: LystadJS/method-statistical-computing
+  status: planned
+  summary: Reproducible statistical programming, simulation, computational workflows,
+    and analytical visualization.
+  family: []
+  aliases:
+  - Statistical Computing and Visualization
+  - statistical computing
+  techniques:
+  - procrustes-alignment
+  - sensitivity-analysis
+  - spatial-visualization
+  - statistical-modeling
+  - simulation
+  - bootstrap
+  - data-visualization
+  - reproducible-computing
+  related_methods:
+  - dimension-reduction
+  - missing-data
+  - spatial-statistics
+  languages:
+  - R
+  - Python
