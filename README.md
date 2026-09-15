@@ -46,6 +46,7 @@ _Link to complementary methodological hubs._
 
 | Project | Domain | Method role |
 |---|---|---|
+| [Artificial Intelligence Governance and Non-Proliferation](https://github.com/LystadJS/project-ai-governance-non-proliferation) | Emerging Technology, Human Security | Secondary |
 | [Counterterrorism, Ethnosectarian Context and Islamic State Attack Patterns](https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state) | Political Violence, Terrorism and Responses to Terrorism, Human Security | Secondary |
 | [UN Transcript Intelligence and Dynamic Voting Alignment](https://github.com/LystadJS/UN-Transcript-Intelligence-Dynamic-Voting-Alignment) | — | Primary |
 
